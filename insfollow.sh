@@ -223,7 +223,7 @@ exit 1
 else
 printf " \e[1;92mSuccess\e[0m\n"
 fi
-sleep 3
+sleep 5
 
 done
 printf " \e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 60 secs...\e[0m\n"
